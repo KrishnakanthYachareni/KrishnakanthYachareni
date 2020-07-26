@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Coding Profile:
+- [HackerRank](https://www.hackerrank.com/yacharenikrish?hr_r=1) | Points: 201668 
+- [InterviewBit](https://www.interviewbit.com/profile/yacharenikrish) | Points: 7038
+- [Codechef](https://www.codechef.com/users/yacharenikrish) | Rating: 1516
+- [Codeforces](https://codeforces.com/profile/yacharenikrish) | Rating: 824
+- [Spoj](https://www.spoj.com/users/yacharenikrish/) | Points: 0.3
+
+### Professional Profile:
 ````python
 from dataclasses import dataclass
 from typing import Tuple
@@ -41,9 +49,3 @@ class Social(metaclass=Meta):
     twitter     : str = "yacharenikrish"
     linkedin    : str = "yacharenikrishnakanth"
 ````
-### Coding Profile:
-- [HackerRank](https://www.hackerrank.com/yacharenikrish?hr_r=1) | Points: 201668 
-- [InterviewBit](https://www.interviewbit.com/profile/yacharenikrish) | Points: 7038
-- [Codechef](https://www.codechef.com/users/yacharenikrish) | Rating: 1516
-- [Codeforces](https://codeforces.com/profile/yacharenikrish) | Rating: 824
-- [Spoj](https://www.spoj.com/users/yacharenikrish/) | Points: 0.3

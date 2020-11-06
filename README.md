@@ -35,7 +35,7 @@ class Bio(metaclass=Meta):
     designation : str = "Software Engineer"
     company     : str = "EPAM System Pvt Ltd"
     base        : str = "Hyderabad, India"
-    blog        : str = "https://sites.google.com/site/krishnakanthychareni/home"
+    blog        : str = "https://krishnakanthyachareni.github.io/personal-website/"
 
 
 class Stack(metaclass=Meta):

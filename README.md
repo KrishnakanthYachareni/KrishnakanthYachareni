@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Krishnakanth's github stats](https://github-readme-stats.vercel.app/api?username=KrishnakanthYachareni&count_private=true&show_icons=true) \
+![Krishnakanth's github stats](https://github-readme-stats.vercel.app/api?username=KrishnakanthYachareni&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnakanthYachareni&langs_count=8&hide=dcl)](https://github.com/KrishnakanthYachareni/personal-website)
 

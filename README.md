@@ -12,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Krishnakanth's github stats](https://github-readme-stats.vercel.app/api?username=KrishnakanthYachareni&count_private=true&show_icons=true) \
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnakanthYachareni&langs_count=8&hide=dcl)](https://github.com/KrishnakanthYachareni/personal-website)
+
+<a href="https://github.com/KrishnakanthYachareni/personal-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnakanthYachareni&repo=personal-website" />
+</a>
+<a href="https://github.com/KrishnakanthYachareni/Gayle-Laakmann-McDowell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnakanthYachareni&repo=Gayle-Laakmann-McDowell" />
+</a>
+
 ### Coding Profile:
 - [HackerRank](https://www.hackerrank.com/yacharenikrish?hr_r=1) | Points: 201668 
 - [InterviewBit](https://www.interviewbit.com/profile/yacharenikrish) | Points: 7038
